@@ -1,0 +1,14 @@
+#cards {
+    background-color: black;
+    padding: 10px;
+    color: White;
+    border: solid white 5px;
+    font-family: monospace;
+}
+
+#modal {
+    color: black;
+    font-family: monospace;
+    background-color: lightsteelblue;
+    border: solid darkslategray 5px;
+}
