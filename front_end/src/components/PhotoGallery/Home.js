@@ -14,7 +14,7 @@ export function getdata(photoID1) {
   };
 
   axios
-    .post("https://783vcz-4000.csb.app/search", k)
+    .post("https://image-gallery-backend-p71n.onrender.com/search", k)
     .then((response) => {
       data = response.data;
       s = "";
