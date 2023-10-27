@@ -7,7 +7,7 @@ app.use(express.urlencoded({ extended: true }));
 
 const cors = require("cors");
 const corsOptions = {
-  origin: "https://783vcz-3000.csb.app",
+  origin: "https://image-gallery-frontend-3awa.onrender.com",
   credentials: true, //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 };
